@@ -1,29 +1,26 @@
-## 🚀 About Me
+![About Me](https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:EC4899&height=120&section=header&text=🚀%20About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
-<div align="center">
+<h1 align="center">👋 Hi there! I'm Rinku Yadav</h1>
 
-# 👋 Hi there! I'm Rinku Yadav
-
-<img src="https://img.shields.io/badge/B.Tech%20Student-2563EB?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-7C3AED?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Software%20Developer-059669?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech%20Student-2563EB?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-7C3AED?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aspiring%20Developer-059669?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-### 💫 B.Tech Student | AI & Machine Learning Enthusiast | Aspiring Software Developer
+<h3>💫 B.Tech Student | AI & Machine Learning Enthusiast | Aspiring Software Developer</h3>
 
 I'm a B.Tech student at ITS Engineering College, Greater Noida. Interested in software development, Artificial Intelligence, and building practical projects.
 
-### 🎓 A Little About Me
+<h3>🎓 A Little About Me</h3>
 
 - 🎓 Pursuing B.Tech with specialization in AI & Machine Learning
 - 💻 Learning Python, Java, and Web Development
 - 🚀 Building practical projects to strengthen my technical skills
 - 🎯 Goal: Grow as a Software Developer and AI professional
-- 📧 Email: [rinkuyadavsy_aiml25@its.edu.in](mailto:rinkuyadavsy_aiml25@its.edu.in)
-____________________________________________________________________________________________________________________________________________________
+- 📧 Email: [rinkuyadavsy_aiml25@its.edu.in](mailto:rinkuyadavsy_aiml25@its.edu.in)______________________________________________________________________________________________
 
 <h1> 🌐 Connect With Me</h1>
 
