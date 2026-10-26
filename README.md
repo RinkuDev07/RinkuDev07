@@ -2,7 +2,7 @@
 _____________________________________________________________________________________________________________________________________________
 
 <h1> Hi there! I'm Rinku Yadav👋</h1>
-______________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________
 <h3>*B.Tech Student | AI & Machine Learning Enthusiast | Aspiring Software Developer*</h3>
 
 I'm a B.Tech student at ITS Engineering College, Greater Noida. Interested in software development, Artificial Intelligence, and building practical projects.
