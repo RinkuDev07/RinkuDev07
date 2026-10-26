@@ -51,9 +51,8 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  ```html
-<img src="https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-```
+  <img src="https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+
 
 __________________________________________________________________________________________________________________________________________________
 
