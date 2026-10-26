@@ -1,28 +1,28 @@
 <h1> 🚀 About Me</h1>
 _____________________________________________________________________________________________________________________________________________
 
-<h1> Hi there! I'm Rajan Chaudhary 👋</h1>
+<h1> Hi there! I'm Rinku Yadav👋</h1>
 ______________________________________________________________________________________________________________________________________________
-<h3>*BCA Student | AI & Machine Learning Enthusiast | Aspiring Software Developer*</h3>
+<h3>*B.Tech Student | AI & Machine Learning Enthusiast | Aspiring Software Developer*</h3>
 
-I'm a BCA student at ITS College of Professional Studies, Greater Noida. Interested in software development, Artificial Intelligence, and building practical projects.
+I'm a B.Tech student at ITS Engineering College, Greater Noida. Interested in software development, Artificial Intelligence, and building practical projects.
 
-- 🎓 Pursuing BCA with specialization in AI & Machine Learning
+- 🎓 Pursuing B.Tech with specialization in AI & Machine Learning
 - 💻 Learning Python, Java, and Web Development
 - 🚀 Building practical projects to strengthen my technical skills
 - 🎯 Goal: Grow as a Software Developer and AI professional
-- 📧 Email: rajanchaudharyrc_bca25@its.edu.in
+- 📧 Email: rinkuyadavsy_aiml25@its.edu.in
 ____________________________________________________________________________________________________________________________________________________
 
 <h1> 🌐 Connect With Me</h1>
 
 
 <p>
-  <a href="https://www.linkedin.com/in/rajan-chaudhary-5a05b7343/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/rajansingh_patel00/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://github.com/rajan1140"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.facebook.com/ram.taul.374/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Rajansinghpatel-z9i">
+  <a href="https://www.linkedin.com/in/rinkudev07/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/iam_rinku_ydv_07/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://github.com/Rinkudev07"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/rinku yadav/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@rinkuyadav_6666">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
@@ -53,15 +53,15 @@ ________________________________________________________________________________
 <h1>📊 GitHub Stats</h1>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajan1140&show_icons=true&theme=tokyonight" width="450px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RinkuDev07&show_icons=true&theme=tokyonight" width="450px" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan1140&theme=tokyonight" width="500px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinkuDev07&theme=tokyonight" width="500px" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajan1140&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" width="350px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinkuDev07&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" width="350px" />
 </p>
 
 
