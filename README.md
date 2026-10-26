@@ -25,6 +25,9 @@ ________________________________________________________________________________
   <a href="https://www.youtube.com/@rinkuyadav_6666">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
+  <a href="https://x.com/rinkuDEv07">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X">
+</a>
 </p>
 _________________________________________________________________________________________________________________________________________________
 
