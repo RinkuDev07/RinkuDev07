@@ -1,4 +1,6 @@
-![About Me](https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:EC4899&height=120&section=header&text=🚀%20About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:EC4899&height=180&section=header&text=RINKU%20YADAV&fontSize=70&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+</p>
 
 <h1 align="center">👋 Hi there! I'm Rinku Yadav</h1>
 
@@ -20,8 +22,7 @@ I'm a B.Tech student at ITS Engineering College, Greater Noida. Interested in so
 - 💻 Learning Python, Java, and Web Development
 - 🚀 Building practical projects to strengthen my technical skills
 - 🎯 Goal: Grow as a Software Developer and AI professional
-- 📧 Email: [rinkuyadavsy_aiml25@its.edu.in](mailto:rinkuyadavsy_aiml25@its.edu.in)______________________________________________________________________________________________
-
+- 📧 Email: <a href="mailto:rinkuyadavsy_aiml25@its.edu.in">rinkuyadavsy_aiml25@its.edu.in</a>
 <h1> 🌐 Connect With Me</h1>
 
 
