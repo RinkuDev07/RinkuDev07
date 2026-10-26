@@ -1,17 +1,24 @@
-<h1> 🚀 About Me</h1>
-_____________________________________________________________________________________________________________________________________________
+## 🚀 About Me
 
-<h1> Hi there! I'm Rinku Yadav👋</h1>
-_____________________________________________________________________________________________________________________________________________
-<h3>*B.Tech Student | AI & Machine Learning Enthusiast | Aspiring Software Developer*</h3>
+<h1 align="center">👋 Hi there! I'm Rinku Yadav</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-Student-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26-Machine%20Learning-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aspiring-Software%20Developer-059669?style=for-the-badge" />
+</p>
+
+<h3>💫 B.Tech Student | AI & Machine Learning Enthusiast | Aspiring Software Developer</h3>
 
 I'm a B.Tech student at ITS Engineering College, Greater Noida. Interested in software development, Artificial Intelligence, and building practical projects.
+
+### 🎓 A Little About Me
 
 - 🎓 Pursuing B.Tech with specialization in AI & Machine Learning
 - 💻 Learning Python, Java, and Web Development
 - 🚀 Building practical projects to strengthen my technical skills
 - 🎯 Goal: Grow as a Software Developer and AI professional
-- 📧 Email: rinkuyadavsy_aiml25@its.edu.in
+- 📧 Email: [rinkuyadavsy_aiml25@its.edu.in](mailto:rinkuyadavsy_aiml25@its.edu.in)
 ____________________________________________________________________________________________________________________________________________________
 
 <h1> 🌐 Connect With Me</h1>
