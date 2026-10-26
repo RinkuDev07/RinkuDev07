@@ -1,14 +1,18 @@
 ## 🚀 About Me
 
-<h1 align="center">👋 Hi there! I'm Rinku Yadav</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Student-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20%26-Machine%20Learning-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Aspiring-Software%20Developer-059669?style=for-the-badge" />
-</p>
+# 👋 Hi there! I'm Rinku Yadav
 
-<h3>💫 B.Tech Student | AI & Machine Learning Enthusiast | Aspiring Software Developer</h3>
+<img src="https://img.shields.io/badge/B.Tech%20Student-2563EB?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-7C3AED?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Developer-059669?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
+
+---
+
+### 💫 B.Tech Student | AI & Machine Learning Enthusiast | Aspiring Software Developer
 
 I'm a B.Tech student at ITS Engineering College, Greater Noida. Interested in software development, Artificial Intelligence, and building practical projects.
 
